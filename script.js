@@ -6,3 +6,4 @@ onNewListItem("product-list", function(product) {
 
   $(".product-list-container").append(nameHeader, image)
 })
+
